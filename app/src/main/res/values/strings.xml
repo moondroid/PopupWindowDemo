@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PopupWindowDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="channels_name">
+        <item>WE ARE TENNIS</item>
+        <item>WE LOVE CINEMA</item>
+        <item>BNL CHANNEL</item>
+        <item>BNL PEOPLE</item>
+    </string-array>
+    <string-array name="dispositive_name">
+        <item>Bonifico</item>
+        <item>Ricarica cellulare</item>
+        <item>Ricarica prepagata</item>
+        <item>Giroconto</item>
+    </string-array>
+
+    <string name="popup_informativa_title">Informativa Generica</string>
+    <string name="popup_informativa_subtitle">Per accedere alla Banca via Internet devi inserire il tuo Numero Cliente e il tuo PIN.</string>
+    <string name="popup_informativa_text1">Prevailed sincerity behaviour to so do principle mr. As departure at no propriety zealously my. On dear rent if girl view. First on smart there he sense. Earnestly enjoyment her you resources. Brother chamber ten old against. Mr be cottage so related minuter is. Delicate say and blessing ladyship exertion few margaret. Delight herself welcome against smiling its for. Suspected discovery by he affection household of principle perfectly he.</string>
+    <string name="popup_informativa_text2">Announcing of invitation principles in. Cold in late or deal. Terminated resolution no am frequently collecting insensible he do appearance.</string>
+    <string name="popup_informativa_download">Scarica la nostra documentazione sulla sicurezza bancaria.</string>
+
+</resources>
